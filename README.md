@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmad Saeed
-- 👀 I’m interested in C, C++,web development
-- 🌱 I’m currently doing computer science.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently a graduate in computer science.
 
 <!---
 AhmadWahlah1/AhmadWahlah1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
